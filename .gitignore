@@ -1,0 +1,30 @@
+# Firmware
+firmware/guante_haptico/secrets.h
+firmware/test_host/test_host
+firmware/test_host/golden_vectors.txt
+firmware/**/build/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.csv
+
+# Unity
+unity/[Ll]ibrary/
+unity/[Tt]emp/
+unity/[Oo]bj/
+unity/[Bb]uild/
+unity/[Bb]uilds/
+unity/[Ll]ogs/
+unity/[Uu]ser[Ss]ettings/
+unity/*.csproj
+unity/*.sln
+unity/.vs/
+unity/.idea/
+*.apk
+*.aab
+
+# SO
+.DS_Store
+Thumbs.db

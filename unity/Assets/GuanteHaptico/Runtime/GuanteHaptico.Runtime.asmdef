@@ -1,0 +1,18 @@
+{
+    "name": "GuanteHaptico.Runtime",
+    "rootNamespace": "GuanteHaptico",
+    "references": [
+        "Unity.XR.Hands",
+        "Unity.XR.CoreUtils",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
